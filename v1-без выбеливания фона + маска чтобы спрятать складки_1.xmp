@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="198D0CA5E4944744BEE881CE861E750D"
+   crs:UUID="B6E60FFEB90D48D8B1DE7D6592E35732"
    crs:SupportsAmount2="True"
    crs:SupportsAmount="True"
    crs:SupportsColor="True"
@@ -183,7 +183,7 @@
          crs:ZeroX="0.535377"
          crs:ZeroY="0.559069"
          crs:FullX="0.531393"
-         crs:FullY="1.001639"/>
+         crs:FullY="1.00164"/>
         <rdf:li
          crs:What="Mask/CircularGradient"
          crs:MaskActive="true"
@@ -192,14 +192,14 @@
          crs:MaskInverted="false"
          crs:MaskSyncID="CCD0A94391824653BAD32CF9888C8FED"
          crs:MaskValue="0"
-         crs:Top="0.363019"
-         crs:Left="0.292464"
-         crs:Bottom="0.883609"
-         crs:Right="0.718227"
+         crs:Top="0.465999"
+         crs:Left="0.270067"
+         crs:Bottom="0.785429"
+         crs:Right="0.69583"
          crs:Angle="0"
          crs:Midpoint="50"
          crs:Roundness="0"
-         crs:Feather="61"
+         crs:Feather="63"
          crs:Flipped="true"
          crs:Version="2"/>
        </rdf:Seq>
