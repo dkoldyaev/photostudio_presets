@@ -88,7 +88,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default"/>
+     <rdf:li xml:lang="x-default">Фотостудия Зверев+Даша</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
@@ -131,6 +131,7 @@
      crs:SupportsAmount="false"
      crs:SupportsMonochrome="false"
      crs:SupportsOutputReferred="false"
+     crs:Copyright="© 2018 Adobe Systems, Inc."
      crs:Stubbed="true">
     <crs:Group>
      <rdf:Alt>

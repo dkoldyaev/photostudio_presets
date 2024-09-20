@@ -17,7 +17,7 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="16.2"
+   crs:Version="16.3.1"
    crs:ProcessVersion="15.4"
    crs:WhiteBalance="As Shot"
    crs:Exposure2012="+0.35"
@@ -92,7 +92,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default"/>
+     <rdf:li xml:lang="x-default">Фотостудия Зверев+Даша</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
@@ -134,6 +134,7 @@
      crs:SupportsAmount="false"
      crs:SupportsMonochrome="false"
      crs:SupportsOutputReferred="false"
+     crs:Copyright="© 2018 Adobe Systems, Inc."
      crs:Stubbed="true">
     <crs:Group>
      <rdf:Alt>
